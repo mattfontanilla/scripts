@@ -11,3 +11,7 @@ Using that information I would move the unused devices into a certain folder in 
 Created to check the user logon names of a list of users in AD.
 The idea was to ensure that the names conformed to a certain naming convention.
 A couple more lines of code could be added to specify that naming convention and throw back the users that do/do not follow that convention.
+
+-CountDGroupMembers
+Created to count the amount of members in a AD group
+A couple more lines could be added to export that data to a csv
